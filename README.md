@@ -88,8 +88,3 @@ This project is licensed under the MIT License.
 - OpenAI
 
 - Gradio
-
-
----
-
-✅ You can now paste the whole thing in one go into your `README.md`. Let me know if you want a matching `requirements.txt`, `.zip` of the codebase, or live deploy instructions (e.g., Hugging Face Spaces).
